@@ -6,8 +6,10 @@ namespace HelloWorld;
 
 class Program
 {
+
     public static void Main()
     {
+        Console.WriteLine("Hello World!");
         Raylib.InitWindow(800, 480, "Hello World!");
 
         while (!Raylib.WindowShouldClose())
@@ -19,7 +21,6 @@ class Program
 
             Raylib.EndDrawing();
         }
-
         Raylib.CloseWindow();
     }
 }

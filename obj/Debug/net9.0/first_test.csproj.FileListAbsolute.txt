@@ -20,3 +20,4 @@
 /Users/aldebaraancanedo/Documents/RAYLIB_C#/first_test/obj/Debug/net9.0/first_test.pdb
 /Users/aldebaraancanedo/Documents/RAYLIB_C#/first_test/obj/Debug/net9.0/first_test.genruntimeconfig.cache
 /Users/aldebaraancanedo/Documents/RAYLIB_C#/first_test/obj/Debug/net9.0/ref/first_test.dll
+/Users/aldebaraancanedo/Documents/RAYLIB_C#/first_test/obj/Debug/net9.0/first_test.sourcelink.json
