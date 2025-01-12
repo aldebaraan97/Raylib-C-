@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RK6CPLsVHqM=",
+  "success": true,
+  "projectFilePath": "/Users/aldebaraancanedo/Documents/RAYLIB_C#/first_test/first_test.csproj",
+  "expectedPackageFiles": [
+    "/Users/aldebaraancanedo/.nuget/packages/raylib-cs/7.0.0/raylib-cs.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
