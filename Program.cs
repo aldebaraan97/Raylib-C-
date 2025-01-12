@@ -15,7 +15,7 @@ class Program
             Raylib.BeginDrawing();
             Raylib.ClearBackground(Color.White);
 
-            Raylib.DrawText("Alo alo!", 12, 12, 20, Color.Black);
+            Raylib.DrawText("testing", 12, 12, 20, Color.Black);
 
             Raylib.EndDrawing();
         }
